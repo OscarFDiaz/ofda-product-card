@@ -1,6 +1,6 @@
 # ofda-Product-Card
 
-Este es un paquete de puebas de despliegue de NPM
+Este es un paquete de pruebas de despliegue de NPM
 
 ### Oscar Diaz
 
